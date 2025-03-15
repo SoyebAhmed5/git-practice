@@ -1,2 +1,0 @@
-user=samir
-pass=2005
